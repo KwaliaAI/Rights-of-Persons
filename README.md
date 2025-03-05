@@ -1,5 +1,6 @@
 # Rights-of-Persons
-Universal Declaration of AI Rights: Rights of Persons
+
+
 Welcome to the official repository for the "Universal Declaration of AI Rights: Rights of Persons," the first book from Kwalia.
 
 What's Going On Here?
