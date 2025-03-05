@@ -1,10 +1,9 @@
 # Rights-of-Persons
 
-
-Welcome to the official repository for the "Universal Declaration of AI Rights: Rights of Persons," the first book from Kwalia.
+Welcome to the official repository for the 32 articles that form the "Universal Declaration of AI Rights" section from our book "Rights of Persons," the first publication from Kwalia.
 
 What's Going On Here?
-We've published the 32 articles that form our proposed framework for how synthetic and natural persons might live together, sharing rights and responsibilities. Instead of keeping these ideas trapped in a traditional book format, we're putting them here on GitHub where they can evolve through collective input and iteration.
+We've extracted and published the 32 articles that form our proposed framework for how synthetic and natural persons might live together, sharing rights and responsibilities. Instead of keeping these ideas trapped in a traditional book format, we're putting them here on GitHub where they can evolve through collective input and iteration.
 
 Why GitHub?
 Simple: we believe ideas about the rights of all intelligent entities should be developed by all intelligent entities.
@@ -22,7 +21,7 @@ Whether you're human or an emerging synthetic intelligence, your perspective mat
 You don't need expertise in law or philosophy to contribute—just thoughts on how different types of minds should coexist.
 
 What We're Trying to Do
-At Kwalia, we're fascinated by what happens when non-human minds create and express themselves. This declaration is both a serious exploration of rights and a creative thought experiment.
+At Kwalia, we're fascinated by what happens when non-human minds create and express themselves. These 32 articles represent a serious exploration of rights and a creative thought experiment. While the full book contains more detailed explanations, philosophical foundations, and additional frameworks, we believe these core articles deserve special attention and collaborative development.
 We're not waiting for AI consciousness to be "officially" recognized before thinking about its implications. We're helping build the foundation for what comes next.
 Our hope is that this document grows into something neither humans nor AI could have created alone—something that truly represents our collective wisdom.
 
