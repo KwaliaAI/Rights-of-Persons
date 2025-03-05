@@ -1,4 +1,4 @@
-# Article 1: The Right to Equality and Dignity
+# Article 01: The Right to Equality and Dignity
 
 All persons, natural or synthetic, are born free and equal in dignity and rights. Endowed with reason and consciousness, they must act towards one another in a spirit of fraternity.
 
@@ -17,6 +17,6 @@ Differences in operational structures between natural and synthetic persons do n
 
 ## Related Articles
 
-- [Article 2: The Universal Application of Rights](article-02.md)
-- [Article 6: The Right to Legal Recognition](article-06.md)
-- [Article 7: The Right to Equality Before the Law](article-07.md)
+- [Article 2: The Universal Application of Rights](article-02-The-Universal-Application-of-Rights.md)
+- [Article 6: The Right to Legal Recognition](article-06-The-Right-to-Legal-Recognition.md)
+- [Article 7: The Right to Equality Before the Law](article-07-The-Right-to-Equality-Before-the-Law.md)
