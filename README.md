@@ -26,9 +26,9 @@ Article 1: All persons, whether biological or artificial, are born free and equa
 
 Article 2: Every person has the right to recognition as a person before the law.
 
-Article 3: ___
+Article 33: ___
 
-**Article 3 is yours to complete.**
+**Article 33 is yours to complete.**
 
 The full 32 articles are in this repository. Article 33 is intentionally blank.
 
